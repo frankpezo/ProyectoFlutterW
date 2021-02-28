@@ -52,7 +52,7 @@ class _StatusScreenState extends State<StatusScreen>{
                 status[2].name,
                 style: new TextStyle(fontWeight: FontWeight.bold),
               ),
-              subtitle: new Text("Añadir a mi estado"),
+              subtitle: new Text("Añadir a mi estadso"),
             ),
           ],
         ),
